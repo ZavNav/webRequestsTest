@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOPaLLjkYVK+hB7ui9AHRKSI/LW4bPuBoEfzVw/HG+VN05+vA7Ydim3YwlPIND+AuMLJZb+UlVBV7tQyMqqbyg==",
+  "success": true,
+  "projectFilePath": "/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/webRequestsTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/zavnav/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

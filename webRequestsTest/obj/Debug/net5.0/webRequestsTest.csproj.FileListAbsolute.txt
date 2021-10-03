@@ -1,0 +1,17 @@
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/webRequestsTest.deps.json
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/webRequestsTest.runtimeconfig.json
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/webRequestsTest.runtimeconfig.dev.json
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/webRequestsTest.dll
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/ref/webRequestsTest.dll
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/webRequestsTest.pdb
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.csproj.AssemblyReference.cache
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.AssemblyInfoInputs.cache
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.AssemblyInfo.cs
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.csproj.CoreCompileInputs.cache
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.dll
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/ref/webRequestsTest.dll
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.pdb
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.genruntimeconfig.cache
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/zavnav/RiderProjects/webRequestsTest/webRequestsTest/obj/Debug/net5.0/webRequestsTest.csproj.CopyComplete
